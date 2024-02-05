@@ -2,9 +2,8 @@ package com.myblog.myblog.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
+// date-03/01
 
-@Getter
-@Setter
 @AllArgsConstructor
 @NoArgsConstructor
 @Table(name = "myblog")
